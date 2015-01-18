@@ -1,5 +1,5 @@
 source "http://rubygems.org"
 gemspec
 
-gem 'spree', '~> 1.3.5'
-gem 'spree_auth_devise', :github => 'spree/spree_auth_devise', :branch => '1-3-stable'
+gem 'spree', '~> 2.0.0'
+gem 'spree_auth_devise', :github => 'spree/spree_auth_devise', :branch => '2-0-stable'
